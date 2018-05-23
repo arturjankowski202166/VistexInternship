@@ -11,11 +11,17 @@ namespace VistexInternship
             for (int i = 0; i < numberOfCorners; i++)
             {
                 double x, y;
-                x = r * Math.Cos((Math.PI / numberOfCorners) * (1 + 2 * (i + 86 * Math.PI / 180)));
-                y = r * Math.Sin((Math.PI / numberOfCorners) * (1 + 2 * (i - Math.PI / 6)));
+                x = r + r * Math.Cos((Math.PI / numberOfCorners) * (1 + 2 * i));
+                y = r * Math.Sin((Math.PI / numberOfCorners) * (1 + 2 * i));
                 cornerCoordinates[i] = new Point(x, y);
             }
             return cornerCoordinates;
+        }
+        public static double CalculateField(int numberOfCorners, double lenghtOfSide)
+        {
+            double R = lenghtOfSide / (2 * Math.Tan(Math.PI / numberOfCorners));
+            double field = numberOfCorners * R * R * Math.Sin((2 * Math.PI) / numberOfCorners) * 0.5;
+            return field;
         }
     }
 }

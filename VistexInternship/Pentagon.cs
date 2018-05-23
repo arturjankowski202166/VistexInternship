@@ -15,7 +15,7 @@ namespace VistexInternship
 
         public double CalculateField()
         {
-            return 5 * lenghtOfSide * lenghtOfSide * Math.Cos(0.628318531);
+            return ShapeCalculator.CalculateField(numberOfCorners, lenghtOfSide);
         }
         private double lenghtOfSide;
         private int numberOfCorners = 5;

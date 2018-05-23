@@ -1,0 +1,22 @@
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternshipTests.dll
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternshipTests.pdb
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternship.exe
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternship.pdb
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternship.exe.config
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\obj\Debug\VistexInternshipTests.csprojResolveAssemblyReference.cache
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\obj\Debug\VistexInternshipTests.csproj.CoreCompileInputs.cache
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\obj\Debug\VistexInternshipTests.dll
+C:\Users\Artur Jankowski\source\repos\VistexInternship\VistexInternshipTests\obj\Debug\VistexInternshipTests.pdb
+E:\Git\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternshipTests.dll
+E:\Git\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternshipTests.pdb
+E:\Git\VistexInternship\VistexInternshipTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Git\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternship.exe
+E:\Git\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternship.pdb
+E:\Git\VistexInternship\VistexInternshipTests\bin\Debug\VistexInternship.exe.config
+E:\Git\VistexInternship\VistexInternshipTests\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Git\VistexInternship\VistexInternshipTests\obj\Debug\VistexInternshipTests.csprojResolveAssemblyReference.cache
+E:\Git\VistexInternship\VistexInternshipTests\obj\Debug\VistexInternshipTests.csproj.CoreCompileInputs.cache
+E:\Git\VistexInternship\VistexInternshipTests\obj\Debug\VistexInternshipTests.dll
+E:\Git\VistexInternship\VistexInternshipTests\obj\Debug\VistexInternshipTests.pdb

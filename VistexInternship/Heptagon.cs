@@ -11,7 +11,7 @@ namespace VistexInternship
 
         public double CalculateField()
         {
-            return (lenghtOfSide * lenghtOfSide * Math.Sqrt(3)) / 2;
+            return ShapeCalculator.CalculateField(numberOfCorners, lenghtOfSide);
         }
 
         public Point[] CalculateCorners()

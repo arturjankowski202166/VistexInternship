@@ -95,5 +95,22 @@ namespace VistexInternship.Tests
                 Assert.IsNotNull(shape);
             }
         }
+        [TestMethod()]
+        public void ShapeShouldHaveEqualSides()
+        {
+            IShape shape = null;
+
+            for (int i = 3; i < 10; i++)
+            {
+                shape = sf.CreateShape(5, i);
+                Point[] array = shape.CalculateCorners();
+                for (int j = 1; j < array.Length; j++)
+                {
+                    double calculatedLenght = Math.Sqrt(Math.Pow(array[j].x - array[j - 1].x, 2) + Math.Pow(array[j].y - array[j - 1].y, 2));
+                    Assert.AreEqual(5, Math.Round(calculatedLenght));
+                }
+
+            }
+        }
     }
 }

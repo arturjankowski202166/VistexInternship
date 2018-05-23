@@ -1,0 +1,14 @@
+c:\users\artur jankowski\source\repos\VistexInternship\VistexInternship\bin\Debug\VistexInternship.exe.config
+c:\users\artur jankowski\source\repos\VistexInternship\VistexInternship\bin\Debug\VistexInternship.exe
+c:\users\artur jankowski\source\repos\VistexInternship\VistexInternship\bin\Debug\VistexInternship.pdb
+c:\users\artur jankowski\source\repos\VistexInternship\VistexInternship\obj\Debug\VistexInternship.csprojResolveAssemblyReference.cache
+c:\users\artur jankowski\source\repos\VistexInternship\VistexInternship\obj\Debug\VistexInternship.csproj.CoreCompileInputs.cache
+c:\users\artur jankowski\source\repos\VistexInternship\VistexInternship\obj\Debug\VistexInternship.exe
+c:\users\artur jankowski\source\repos\VistexInternship\VistexInternship\obj\Debug\VistexInternship.pdb
+E:\Git\VistexInternship\VistexInternship\bin\Debug\VistexInternship.exe.config
+E:\Git\VistexInternship\VistexInternship\bin\Debug\VistexInternship.exe
+E:\Git\VistexInternship\VistexInternship\bin\Debug\VistexInternship.pdb
+E:\Git\VistexInternship\VistexInternship\obj\Debug\VistexInternship.csprojResolveAssemblyReference.cache
+E:\Git\VistexInternship\VistexInternship\obj\Debug\VistexInternship.csproj.CoreCompileInputs.cache
+E:\Git\VistexInternship\VistexInternship\obj\Debug\VistexInternship.exe
+E:\Git\VistexInternship\VistexInternship\obj\Debug\VistexInternship.pdb
