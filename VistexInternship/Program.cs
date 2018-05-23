@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -46,6 +47,15 @@ namespace VistexInternship
                 case "f":
                     {
                         Console.WriteLine("Chosen print to file");
+                        Point[] list = shape.CalculateCorners();
+                        StreamWriter file =  new System.IO.StreamWriter(@"C:\Users\Public\output.txt",true);
+                        file.WriteLine( "Field of shape: " + shape.CalculateField());
+                        file.WriteLine("List of corners of this shape:");
+                        for (int i = 0; i < numberOfCorners; i++)
+                        {
+                            file.WriteLine(("X = "+ Math.Round(list[i].x, 4) + "; Y = " + Math.Round(list[i].y)));
+                        }
+                        file.Close();
                         break;
                     }
                 case "c":
